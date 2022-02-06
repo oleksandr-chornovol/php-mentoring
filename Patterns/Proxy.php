@@ -1,6 +1,5 @@
 <?php
 
-
 namespace RefactoringGuru\Proxy\Conceptual;
 
 use RefactoringGuru\AbstractFactory\Conceptual\AbstractPHPDeveloper;
